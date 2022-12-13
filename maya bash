@@ -1,3 +1,6 @@
+rem Written by Sebastian aka Goosey
+rem You are about to install Maya 2023
+pause
 color 8a
 cd C:\
 mkdir Maya
